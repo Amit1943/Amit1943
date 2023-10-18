@@ -1,0 +1,112 @@
+Design principles
+In the cloud, there are a number of principles that can help you strengthen your workload security:
+
+Implement a strong identity foundation: Implement the principle of least privilege and enforce separation of duties with appropriate authorization for each interaction with your AWS resources. Centralize identity management, and aim to eliminate reliance on long-term static credentials.
+
+Enable traceability: Monitor, alert, and audit actions and changes to your environment in real time. Integrate log and metric collection with systems to automatically investigate and take action.
+
+Apply security at all layers: Apply a defense in depth approach with multiple security controls. Apply to all layers (for example, edge of network, VPC, load balancing, every instance and compute service, operating system, application, and code).
+
+Automate security best practices: Automated software-based security mechanisms improve your ability to securely scale more rapidly and cost-effectively. Create secure architectures, including the implementation of controls that are defined and managed as code in version-controlled templates.
+
+Protect data in transit and at rest: Classify your data into sensitivity levels and use mechanisms, such as encryption, tokenization, and access control where appropriate.
+
+Keep people away from data: Use mechanisms and tools to reduce or eliminate the need for direct access or manual processing of data. This reduces the risk of mishandling or modification and human error when handling sensitive data.
+
+Prepare for security events: Prepare for an incident by having incident management and investigation policy and processes that align to your organizational requirements. Run incident response simulations and use tools with automation to increase your speed for detection, investigation, and recovery.
+
+Definition
+Security in the cloud is composed of six areas:
+
+Foundations
+Identity and access management
+Detection
+Infrastructure protection
+Data protection
+Incident response
+https://youtu.be/4yJp5-jGGNk
+WAF (or) DDOS (or) Layer 3 (or) Layer 7 security (or) Vulnerability (or) SIEM
+======================================
+https://reciprocity.com/blog/the-6-key-pillars-of-cloud-security/
+https://www.checkpoint.com/cyber-hub/cloud-security/what-is-cloud-security/
+https://www.checkpoint.com/solutions/amazon-aws-security/
+https://www.checkpoint.com/cyber-hub/cloud-security/what-is-cloud-security/
+https://www.perfectiongeeks.com/4four-areas-of-cloud-security
+
+
+
+================================================================================================
+Must have experience around End to End cloud security design and Architecture experience
+
+·         Must have experience around Design of security controls, product best fit analysis to ensure end to end security covering different faucets of architecture e.g. Layered security, Zoning, Integration aspects, API, Endpoint security, Data security, Compliance and regulations, Threat intelligence, Threat exposure &incident management aspects for the cloud deployments for the AWS/Azure/GCP environment
+
+·         High level experience on Infrastructure Security Products design and deployment experience for cloud environments like (Security Groups, NACL, WAF, Inspector, cloud front, cloud watch, RDS, Shield, Cloud Config , Key management, IAM etc. is must
+ 
+·         Hands-on experience in the technical deployment, configuration, integration, support, and administration of security technologies (e.g. Firewalls, IPS, DDoS, SIEM, WAF, Endpoint etc.) for cloud environment is must.
+·         Knowledge about Containers Security/Dockers/Kubernetes/Micro services
+·         Experience around creating and audit of security best practices and implementation of security principles across the organization, to meet business goals along with customer and regulatory requirements
+·         Must have basic knowledge and experience around ITIL or Key process-oriented domains like incident management, configuration management, change management, problem management
+·         Should have done security assessment against NIST Frameworks, Cloud security Alliance etc.
+·         Should have deep understanding of cloud compute resources (network / storage)
+·         Able to use adequate set of security controls for shaping security posture in IaaS and PaaS based environments.
+·         Able to demonstrate POC environment with complex cloud security architectures and cloud native security controls.
+·         Have understanding of Cloud Governance, Regulatory and Compliances standards like CIS Benchmarks, NIST Framework, PCI-DSS, GDPR, etc.
+·         Able to drive cloud security risk assessment and identify the GAPs and define remediation approach by using right set of security controls to conclude the assessment.
+·         Understanding of right set of security solutions to be integrated onto the cloud
+
+ Have you used File adapter? where should we use FTP adapter and where to use file adapter?
+ Technical flow behind connectivity agent? -- basically need to know how it is different from VPN and IP processing system
+ 
+ Risk Analysis and mitigation plan
+
+
+such as AWS Identity and Access Management (IAM),
+AWS CloudTrail, AWS Key Management Service (AWS KMS),
+AWS WAF, Amazon GuardDuty, and AWS Security Hub are
+As just one example, using Amazon Inspector and AWS Systems Manager helps customers
+automate patching for infrastructure and applications, reducing the burden of manually patching, easing
+the process of patching multiple operating systems, and boosting customer productivity
+Machine learning and artificial intelligence will add a critical layer of automation to
+cloud security
+AWS services like Amazon GuardDuty, Amazon Detective,
+Amazon CodeGuru, and Amazon Macie will continue to lay the groundwork for integration of security and
+machine learning, helping customers with intelligent recommendations, at scale
+
+
+https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf
+==================================================
+hanu
+Have Hands-on technical minimum 8+ Years of Experience designing and implementing security solutions for Azure across IaaS and PaaS models and environments (Public, Private, Hybrid).
+Minimum 4+ Years of Experience in architecting role in Azure/Hybrid Cloud is mandatory.
+Acting as a cloud security subject matter expert and work in conjunction with other project teams on the public / private / hybrid cloud ecosystem to develop security solutions.
+Comfortability with cloud security domains, such as identity management, logging and monitoring, configuration management, network design, security assessment and governance frameworks
+Deep technical know-how and experience in designing and implementing Cloud Security solutions, Microsoft Azure Security technologies, including the broader areas of Microsoft Windows security and Microsoft Enterprise, Mobility and Security suite.
+Experience driving escalation, prioritization, and coordination of high severity Security incidents (Zero Day) and designing appropriate communication plans to all levels of the organization.
+One or more Firewall experience - Azure Firewall, WAF, Barracuda, Fortinet, Palo Alto.
+Azure Sentinel or any other SIEM, Writing KUSTO queries, Any Automation language.
+Skills on Nessus, Qualys, or any other VA / VM tool
+Knowledge of Governance/ Compliance/Standards such as NIST, OWASP CSA, GDPR ISO 27001, FedRAMP, GovCloud, etc.
+Knowledge on EDR solutions, threat investigations and analytics
+In possession of or working toward industry recognized cloud security certifications such as CCSK, Azure Security Engineer, Azure Solution Architect Expert, Good to have certifications - ISC2 CISSP, CCSP, OSCP
+Knowledge and understanding across a wide range of technology domains and application frameworks and have ability to quickly grasp relationships of various disciplines.
+Excellent communication skills with strong business and technical vision
+Experience demonstrating strong leadership, self-motivation, and accountability.
+Experience on leading complex projects cross-functionally
+Must be comfortable working in projects round the clock (24*7) environments.
+Must prepare documents like Project Plan, Risk matrix, run book, SOP, implementation documents and other related documents.
+Good knowledge on ITIL process.
+
+
+www
+6 CV I had shared
+
+Lalit already working
+Akshata got job
+
+Vikky prakash
+Damini
+Vaishnavi  (B.Tech)
+BhagyaShri T kadam
+
+
+
